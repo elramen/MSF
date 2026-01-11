@@ -1,2 +1,2 @@
 # MSF
-Estimates the weight of a minimum spanning forest
+Algorithm that estimates the weight of a minimum spanning forest with limited information.
